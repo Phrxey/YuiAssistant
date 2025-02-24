@@ -1,0 +1,1 @@
+This program is designed for running an response bot on QQ platform, which you can combine your LLM apis and chat with ai via QQ. This program is worked with napcat(https://napneko.github.io/guide/napcat). You can also combine this bot with ollama, but the port is 23544, different from 11434.
